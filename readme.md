@@ -27,7 +27,7 @@ Create a folder for your college projects.  Go into that folder.
 
 Inside that college folder, run:
 
-```git clone https://github.com/eoinco/nci_2021.git```
+```git clone https://github.com/sdh24/blockchain_2021.git```
 
 ## Updating Code in Repo from Github ##
 
