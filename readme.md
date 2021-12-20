@@ -96,11 +96,11 @@ To POST to a route, execute the following CURL command:
 
 ### build a docker container ###
 
-```docker build -t nci/lab2021 .```
+```docker build -t nci_2021_sanketdocker .```
 
 ### run the image ###
 
-```docker run -p 8090:8080 --name nci -d nci/lab2021```
+```docker run -p 8090:8080 --name name -d nci_2021_sanketdocker```
 
 ### kill a running container ###
 ```docker kill [name]```
