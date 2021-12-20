@@ -326,7 +326,7 @@ const returnAllValues = async() => {
 returnAllValues();
 //console.log("hello world?");
 
-//module.exports = { getSymbol, getDecimals, getBalanceOfAccount, getName }
+module.exports = { getSymbol, getDecimals, getBalanceOfAccount, getName }
 
 
 
