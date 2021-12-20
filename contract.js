@@ -323,10 +323,10 @@ const returnAllValues = async() => {
     console.log(await getBalanceOfAccount(owner));
 }
 
-//returnAllValues();
+returnAllValues();
 //console.log("hello world?");
 
-module.exports = { getSymbol, getDecimals, getBalanceOfAccount, getName }
+//module.exports = { getSymbol, getDecimals, getBalanceOfAccount, getName }
 
 
 

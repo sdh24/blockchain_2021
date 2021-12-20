@@ -2,7 +2,7 @@
 
 version: '3.7'
 services:
-  nci2021:
+  sanketdocker:
     build:
       context: .
       dockerfile: Dockerfile

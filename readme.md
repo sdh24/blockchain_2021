@@ -131,15 +131,3 @@ to run it in detached mode:
 ```docker-compose up -d```
 
 
-## Requirements for Assignment ##
-
-### 1. create an ethereum account ###
-This is completed inside metamask (12 words, create an account, fund with Ropsten ether)
-
-### 2. Create an ERC20-compliant, fixed-supply token
-using open zeppelin contract, 
-
-### 3. Deply to Ropsten
-deploying using injected web3 and metamask
-
-
